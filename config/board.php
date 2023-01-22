@@ -235,6 +235,6 @@ return [
     |
     */
 
-    'provider' => \App\Orchid\PlatformProvider::class,
+    'provider' => \App\Capucin\PlatformProvider::class,
 
 ];
